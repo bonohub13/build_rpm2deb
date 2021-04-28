@@ -15,7 +15,11 @@
 7. Remove the docker image [Not nessesary]
     - ```docker-compose rmi```
 
-## Dependencies
+## <b>##### Dependencies ##########</b>
 - docker-compose
 - docker [Alternative docker-rootless]
     - [Instructions to install docker-rootless](https://docs.docker.com/engine/security/rootless/)
+
+## <b>##### Favors ##########</b>
+If there were any packages that you tried to convert, but ended up failing, <br/>
+please issue what package you were trying to convert. That would really help. 👍
