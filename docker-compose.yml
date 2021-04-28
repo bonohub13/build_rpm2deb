@@ -3,7 +3,7 @@ services:
     build-rpm2deb:
         build: ./build-rpm2deb
         image: build-rpm2deb
-        container: build-rpm2deb
+        container_name: build-rpm2deb
         tty: true
         volumes:
             - ./build-rpm2deb/target/:/mnt/target/
