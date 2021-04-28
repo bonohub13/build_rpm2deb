@@ -9,7 +9,7 @@
 4. Start up the docker container
     - ```docker-compose up -d```
 5. Run the ```build.bash``` inside the container
-    - ```docker-compose -it exec build.bash /bin/bash```
+    - ```docker-compose exec build.bash```
 6. Kill the container
     - ```docker-compose down```
 7. Remove the docker image [Not nessesary]
