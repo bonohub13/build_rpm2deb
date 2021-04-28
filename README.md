@@ -18,4 +18,4 @@
 ## Dependencies
 - docker-compose
 - docker [Alternative docker-rootless]
-    - [Instructions to install docker-rootless](https://docs.docker.com/engine/rootless/)
+    - [Instructions to install docker-rootless](https://docs.docker.com/engine/security/rootless/)
